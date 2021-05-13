@@ -12,4 +12,6 @@ Using magic to build an eth base pet shop
 yarn install
 yarn start
 ```
-4. login to the website then you can adopt the pet now.
+4. login to the website and copy you public address.
+5. Go to [Rinkeby Authenticated Faucet](https://faucet.rinkeby.io/) to get the native token on rinkeby network.
+6. Then Congratulations. You could adopt the pet now.
